@@ -1,4 +1,4 @@
-# gogo-server
+# gogo-server on openshift
 
 ![](https://images.microbadger.com/badges/image/outloudvi/gogo-server.svg)
 
